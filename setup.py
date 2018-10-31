@@ -22,4 +22,7 @@ setup(
     author_email='jingzhaomirror@gmail.com',
     license='MIT',
     packages=['yelp_recommender'],
+    install_requires=[
+        'pypandoc>=1.4'
+    ]
 )
