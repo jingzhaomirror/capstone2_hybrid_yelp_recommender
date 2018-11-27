@@ -19,9 +19,8 @@ Nested json dictionaries are flatterned during this conversion and both parent a
 After converting from json to csv, data wrangling was performed and the cleaned csv files are saved. These cleaned files are available for download at: 
   1. 'business_clean.csv' https://drive.google.com/file/d/1gOD2V6qrjKi2eMLUJpeVm97GksgiwqmR/view?usp=sharing
   2. 'user_clean.csv' https://drive.google.com/file/d/14fxPl8qEj3dnarzSiovWXjlBNYzB7KXr/view?usp=sharing
-  3. 'review_clean.csv'
-  4. 'tip_clean.csv'
-  5. 'checkin_clean.csv'
+  3. 'review_clean.csv' https://drive.google.com/file/d/1wD7C18GjuMSHPlhTA4NPiZ7UK5RJ6LAr/view?usp=sharing
+  4. 'tip_clean.csv' https://drive.google.com/file/d/1HIlSM-rM_FKjW7LCq9x8Zogs1tQ5OUdk/view?usp=sharing
+  5. 'checkin_clean.csv' https://drive.google.com/file/d/1s6qD7ZszTjVPEv_brjzvEPCPIKXjlPN1/view?usp=sharing
 Please refer to the data wrangling notebook for the details on data wrangling: 
-
-
+https://github.com/jingzhaomirror/Springboard_capstone_2/blob/master/data_wrangling.ipynb
