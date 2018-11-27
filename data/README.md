@@ -18,7 +18,7 @@ Nested json dictionaries are flatterned during this conversion and both parent a
 **Cleaned csv Files:**<br>
 After converting from json to csv, data wrangling was performed and the cleaned csv files are saved. These cleaned files are available for download at: 
   1. 'business_clean.csv' https://drive.google.com/file/d/1gOD2V6qrjKi2eMLUJpeVm97GksgiwqmR/view?usp=sharing
-  2. 'user_clean.csv'
+  2. 'user_clean.csv' https://drive.google.com/file/d/14fxPl8qEj3dnarzSiovWXjlBNYzB7KXr/view?usp=sharing
   3. 'review_clean.csv'
   4. 'tip_clean.csv'
   5. 'checkin_clean.csv'
