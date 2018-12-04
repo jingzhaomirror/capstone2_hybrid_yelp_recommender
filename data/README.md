@@ -11,7 +11,7 @@ Note: total size of the dataset is more than 7 Gb.
 
 **json-to-csv Conversion:**<br>
 The raw json files can be converted to csv files using the 'json_to_csv.py' script provided in this repo: 
-https://github.com/jingzhaomirror/Springboard_capstone_2/blob/master/json_to_csv.py
+https://github.com/jingzhaomirror/capstone2_hybrid_yelp_recommender/blob/master/json_to_csv.py
 Nested json dictionaries are flatterned during this conversion and both parent and nested key, value pairs are extracted with column names of 'parentkey.childkey'. 
 
 
@@ -23,4 +23,4 @@ After converting from json to csv, data wrangling was performed and the cleaned 
   4. 'tip_clean.csv' https://drive.google.com/file/d/1HIlSM-rM_FKjW7LCq9x8Zogs1tQ5OUdk/view?usp=sharing
   5. 'checkin_clean.csv' https://drive.google.com/file/d/1s6qD7ZszTjVPEv_brjzvEPCPIKXjlPN1/view?usp=sharing
 Please refer to the data wrangling notebook for the details on data wrangling: 
-https://github.com/jingzhaomirror/Springboard_capstone_2/blob/master/data_wrangling.ipynb
+https://github.com/jingzhaomirror/capstone2_hybrid_yelp_recommender/blob/master/data_wrangling.ipynb
