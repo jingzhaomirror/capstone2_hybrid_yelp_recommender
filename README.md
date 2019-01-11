@@ -1,15 +1,11 @@
 # Yelp Business Insights & Hybrid Restaurant Recommendation Engine
 
----
-
-# Abstract
+## Abstract
 This capstone project is part of the data science career track program at Springboard. EDA and interactive visualizations are performed on Yelp open dataset (Yelp dataset challenge) to understand restaurant, user and review patterns on Yelp platform. A hybrid recommendation engine is developed powered by the Yelp dataset, offering a combination of non-personalized keyword-search recommendation, personalized collaborative recommendation and personalzied restaurant content-based recommendation at users' choice.
 
----
+## Executive Summary
 
-# Executive Summary
-
-## * Yelp Business Insights
+### * Yelp Business Insights
 The Yelp open dataset of 5,996,996 reviews, 1,518,169 users, 188,593 businesses, 1,185,348 tips, and over 1.4 million business attributes for each of the 188,593 businesses is obtained, cleaned, analyzed in this project. **Interactive visualizations are also created using Bokeh server.**<br> 
 **The key business findings are:**
 * Only a subset of Yelp restaurants from a few selected states are available in this dataset. Among them, only Arizona, Nevada, Ohio, North Carolina and Pennsylvania have a rich catalog of over 5000 restaurants. 
@@ -21,7 +17,7 @@ The Yelp open dataset of 5,996,996 reviews, 1,518,169 users, 188,593 businesses,
 * The daily number of reviews posted on Yelp shows a steady upward trend with seasonal fluctuations, whereas the daily number of tips only increased in the first four years and slowly dived down thereafter, suggesting tip is not as popular as review. Two thirds of restaurant reviews on Yelp are associated with a positive star rating of 4+. 
 * Half of the restaurants have less than 20 checkins, indicating that checkin is not a widely used feature on Yelp when compared with review.
 
-## * Hybrid Restaurant Recommendation Engine Powered by Yelp Datasets
+### * Hybrid Restaurant Recommendation Engine Powered by Yelp Datasets
 A non-personalized keyword-search recommender module, a personalized collaborative recommender module and a personalized restaurant content-based recommender module are implemented and a user-friendly interface is created to integrate the three submodules, gather user interests and navigate users through the hybrid recommendation engine via user interactive questions.
 
 **Capabilities of the hybrid recommendation engine include:** 
@@ -36,6 +32,3 @@ A non-personalized keyword-search recommender module, a personalized collaborati
 * **Non-personalized keyword-search module** Test results validate that the recommendation results only contain restaurants matching user's combination of keywords and ranked by the appropriate scores of interest. 
 * **Personalized collaborative module** Both the accuracy of rating prediction and the quality of recommendation ranking are computed on unseen testset. RMSE(Root Mean Squared Error) of rating prediction is 1.2777 on testset with new users/restaurants and 1.2443 on testset without new user/restaurant. NDCG (Normalized Discounted Cumulative Gain) of recommendation ranking on testset without new user/restaurant is 0.905 and 0.908 for NDCG@10 and NDCG@5, respectively.
 * **Personalized content-based module** The quality of recommendation ranking are computed on unseen testset. NDCG of recommendation ranking on test without new user/restaurant is 0.857 and 0.863 for NDCG@10 and NDCG@5, respectively.<br>
-<br>
-
----
