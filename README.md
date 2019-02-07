@@ -34,3 +34,8 @@ A non-personalized keyword-search recommender module, a personalized collaborati
 * **Non-personalized keyword-search module** Test results validate that the recommendation results only contain restaurants matching user's combination of keywords and ranked by the appropriate scores of interest. 
 * **Personalized collaborative module** Both the accuracy of rating prediction and the quality of recommendation ranking are computed on unseen testset. RMSE(Root Mean Squared Error) of rating prediction is 1.2777 on testset with new users/restaurants and 1.2443 on testset without new user/restaurant. NDCG (Normalized Discounted Cumulative Gain) of recommendation ranking on testset without new user/restaurant is 0.905 and 0.908 for NDCG@10 and NDCG@5, respectively.
 * **Personalized content-based module** The quality of recommendation ranking are computed on unseen testset. NDCG of recommendation ranking on test without new user/restaurant is 0.857 and 0.863 for NDCG@10 and NDCG@5, respectively.<br>
+
+
+## Further readings 
+Link to the full report: https://github.com/jingzhaomirror/capstone2_hybrid_yelp_recommender/blob/master/final_report.ipynb
+Link to the ppt slide deck: https://github.com/jingzhaomirror/capstone2_hybrid_yelp_recommender/blob/master/slide_deck.pdf
