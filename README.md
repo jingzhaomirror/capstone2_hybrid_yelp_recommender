@@ -20,7 +20,7 @@ The Yelp open dataset of 5,996,996 reviews, 1,518,169 users, 188,593 businesses,
 ### * Hybrid Restaurant Recommendation Engine Powered by Yelp Datasets
 A non-personalized keyword-search recommender module, a personalized collaborative recommender module and a personalized restaurant content-based recommender module are implemented and a user-friendly interface is created to integrate the three submodules, gather user interests and navigate users through the hybrid recommendation engine via user interactive questions.
 
-<img src="figures/user_interface_flowchart.png" height="300" width="800">
+<img src="figures/user_interface_flowchart.png" height="500" width="800">
 
 **Capabilities of the hybrid recommendation engine include:** 
 * **A non-personalized keyword-search recommender module** supports a combination of restaurant location-based (zip code, city, state) keyword filtering and restaurant feature-based (cuisine, style, price) keyword filtering of restaurant catalog, and returns the customized recommendations by ranking the filtered catalog based on ranking criteria of user's choice.
