@@ -36,6 +36,7 @@ A non-personalized keyword-search recommender module, a personalized collaborati
 * **Personalized content-based module** The quality of recommendation ranking are computed on unseen testset. NDCG of recommendation ranking on test without new user/restaurant is 0.857 and 0.863 for NDCG@10 and NDCG@5, respectively.<br>
 
 
-## Further readings 
-Link to the full report: https://github.com/jingzhaomirror/capstone2_hybrid_yelp_recommender/blob/master/final_report.ipynb
+## Further Readings
+Link to the full report: https://github.com/jingzhaomirror/capstone2_hybrid_yelp_recommender/blob/master/final_report.ipynb <br>
 Link to the ppt slide deck: https://github.com/jingzhaomirror/capstone2_hybrid_yelp_recommender/blob/master/slide_deck.pdf
+<br>
