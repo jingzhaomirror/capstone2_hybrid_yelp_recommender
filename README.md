@@ -7,6 +7,9 @@ This capstone project is part of the data science career track program at Spring
 
 ### * Yelp Business Insights
 The Yelp open dataset of 5,996,996 reviews, 1,518,169 users, 188,593 businesses, 1,185,348 tips, and over 1.4 million business attributes for each of the 188,593 businesses is obtained, cleaned, analyzed in this project. **Interactive visualizations are also created using Bokeh server.**<br> 
+
+<img src="figures/eda_collage.png" height="500" width="800">
+
 **The key business findings are:**
 * Only a subset of Yelp restaurants from a few selected states are available in this dataset. Among them, only Arizona, Nevada, Ohio, North Carolina and Pennsylvania have a rich catalog of over 5000 restaurants. 
 * The most common restaurants are the popular chain or franchised restaurants, fast food or coffee shops, Starbucks, McDonald's and Subway being the top three among all.
