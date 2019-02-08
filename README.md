@@ -18,7 +18,7 @@ The Yelp open dataset of 5,996,996 reviews, 1,518,169 users, 188,593 businesses,
 * The daily number of reviews posted on Yelp shows a steady upward trend with seasonal fluctuations, whereas the daily number of tips only increased in the first four years and slowly dived down thereafter, suggesting tip is not as popular as review. Two thirds of restaurant reviews on Yelp are associated with a positive star rating of 4+. 
 * Half of the restaurants have less than 20 checkins, indicating that checkin is not a widely used feature on Yelp when compared with review.
 
-<img src="figures/eda_collage.png" height="500" width="850">
+<img src="figures/eda_collage.png" height="550" width="900">
 
 ### * Hybrid Restaurant Recommendation Engine Powered by Yelp Datasets
 A non-personalized keyword-search recommender module, a personalized collaborative recommender module and a personalized restaurant content-based recommender module are implemented and a user-friendly interface is created to integrate the three submodules, gather user interests and navigate users through the hybrid recommendation engine via user interactive questions.
