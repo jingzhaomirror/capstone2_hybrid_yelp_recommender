@@ -31,7 +31,7 @@ A non-personalized keyword-search recommender module, a personalized collaborati
 * **An adjusted rating score is also introduced as an improved metric over the original restaurant average star ratings** supports ranking the restaurants by the adjusted rating as an alternative ranking criteria. The adjusted rating score uses the mechanism of the damped mean to regulate restaurants with different number of ratings, with the merit of incorporating both average restaurant rating (goodness) and number of ratings (popularity).
 * **A user-friendly interface** supports flexible navigation among the three available recommender modules at user's choice and options to further filter the recommendation results by keywords and/or display the desired number of recommendations.<br>
 
-<img src="figures/user_interface_flowchart.png" height="500" width="700">
+<img src="figures/user_interface_flowchart.png" height="500" width="900">
 
 **Performance of the hybrid recommendation engine:** 
 * **Non-personalized keyword-search module** Test results validate that the recommendation results only contain restaurants matching user's combination of keywords and ranked by the appropriate scores of interest. 
